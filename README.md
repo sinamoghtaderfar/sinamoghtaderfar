@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinamoghtaderfar&label=Profile%20views&color=0e75b6&style=flat" alt="sinamoghtaderfar" /> </p>
 
-<p align="left"> I am Sina Moghtaderfar, graduate with a major in computer engineering, specializing in software, from Islamic Azad University, Tabriz branch. I ventured into front-end programming in 2020, kickstarting my journey with an internship at Data Company, Dade Pardaz Tasmim Saz. 
-  
-On this page, you can explore the various projects I've been involved in, spanning from my student days to my ongoing pursuit of excellence in front-end development.
+<p align="left"> 
+    On this page, you can explore the various projects I've been involved in, spanning from my student days to my ongoing pursuit of excellence in front-end development.
 </p>
 
-- 📫 How to reach me **moghtaderfar@gmail.com**
+- 📫 How to reach me **moghtaderfarsina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
