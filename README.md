@@ -5,8 +5,6 @@
     On this page, you can explore the various projects I've been involved in, spanning from my student days to my ongoing pursuit of excellence in front-end development.
 </p>
 
-- 🌱 I’m currently learning **Next.js, Node.js**
-
 - 📫 How to reach me **moghtaderfarsina@gmail.com**
 
 - 📄 Know about my experiences [https://sinamoghtaderfar.github.io/Resume-Webseite/](https://sinamoghtaderfar.github.io/Resume-Webseite/)
