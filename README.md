@@ -5,7 +5,7 @@
 - 📄 Know about my experiences [https://sinamoghtaderfar.github.io/Resume-Webseite/](https://sinamoghtaderfar.github.io/Resume-Webseite/)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -25,6 +25,7 @@
 </div>
 <br/>
 
+<h3 align="left">GitHub Stats</h3>
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinamoghtaderfar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
