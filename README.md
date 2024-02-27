@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sina Moghtaderfar</h1>
+<h1 align="center">Hi 👋, I'm Sina Moghtader Far</h1>
 
 - 📫 How to reach me **moghtaderfarsina@gmail.com**
 
