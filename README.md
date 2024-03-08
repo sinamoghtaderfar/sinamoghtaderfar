@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sina Moghtader Far</h1>
 
-- 📫 How to reach me **moghtaderfarsina@gmail.com**
+- 📫 How to reach me **moghtaderfar@gmail.com**
 
 - 📄 Know about my experiences [https://sinamoghtaderfar.github.io/Resume-Webseite/](https://sinamoghtaderfar.github.io/Resume-Webseite/)
 
