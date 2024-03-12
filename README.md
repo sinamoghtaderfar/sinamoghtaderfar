@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sina Moghtader Far</h1>
 
 - 📫 How to reach me **moghtaderfar@gmail.com**
-<i class="fa-brands fa-linkedin"></i>
+-  <i class="fa-brands fa-linkedin"></i>  linkedin
 - 📄 Know about my experiences [https://sinamoghtaderfar.github.io/Resume-Webseite/](https://sinamoghtaderfar.github.io/Resume-Webseite/)
 
 
