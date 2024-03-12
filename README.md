@@ -1,7 +1,8 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1 align="center">Hi 👋, I'm Sina Moghtader Far</h1>
 
 - 📫 How to reach me **moghtaderfar@gmail.com**
-
+<i class="fa-brands fa-linkedin"></i>
 - 📄 Know about my experiences [https://sinamoghtaderfar.github.io/Resume-Webseite/](https://sinamoghtaderfar.github.io/Resume-Webseite/)
 
 
