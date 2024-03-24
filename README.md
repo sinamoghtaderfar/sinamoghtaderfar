@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **moghtaderfar@gmail.com**
 
-- 📄 Know about my experiences [https://sinamoghtaderfar.github.io/Resume-Webseite/](https://sinamoghtaderfar.github.io/Resume-Webseite/)
-
 
 <h3 align="left">Languages and Tools</h3>
 <div align="center">  
